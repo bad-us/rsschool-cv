@@ -2,6 +2,7 @@
 
 ## Contact Information
 email: bad-us@rambler.ru
+discord: bad-us
 
 ## Skills
 I am a system administrator. Key skills: Windows, Linux, Bitrix, HyperV, VMWare, Active Directory, VPN, Mikrotik, Zabbix, Asterisk, 1C, Networking.
